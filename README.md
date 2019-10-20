@@ -1,2 +1,2 @@
-# BE-PieceOfCake
-Backend - Dessert Delivery Service Web Application
+# PieceOfCake
+Dessert Delivery Service Web Application
